@@ -6,7 +6,7 @@ Users can log in using Google OAuth, create private bookmarks, delete them, and 
 🔗 https://smart-bookmark-app-hq5p.vercel.app/
 
 3. GitHub Repository
-https://github.com/YOUR_USERNAME/smart-bookmark-app
+https://github.com/prabhameesala3/smart-bookmark-app.git
 
 (Replace with your actual GitHub URL)
 
